@@ -1,34 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 318" width="640" height="318" role="img" aria-labelledby="title desc">
-<title id="title">Ajan Sistemleri</title>
-<desc id="desc">BilYap iki kıyası kapsar: Coding Bench ve Stack Bench. YapBil, Bilmux, Dijital İkiz ve Ajan Atölyesi'ni kapsar. OSMETA, Dijital İkiz ile ilişkili çalışma yöntemidir.</desc>
-<rect width="640" height="318" rx="14" fill="#f2f1e8"/>
-<g fill="none" stroke="#63755a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M320 48v13m-184 13V61h338v13"/>
-  <path d="M136 119v17H31v121m0-92h11m-11 92h11"/>
-  <path d="M474 119v17H314v47h18m142-47h65v21"/>
-  <path d="M314 183v70h8"/>
-  <path d="M539 211v13" stroke-dasharray="3 4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="286" viewBox="0 0 640 286" role="img" aria-labelledby="title desc">
+<title id="title">Ajan Sistemleri / Agent Systems</title>
+<desc id="desc">Dijital İkiz, Bilmux ve OSMETA çalışma düzeninin çekirdeğidir. Ajan Atölyesi başlangıç aracı; Coding Bench ve Stack Bench karşılaştırma araçlarıdır.</desc>
+<rect width="640" height="286" rx="14" fill="#f2f1e8"/>
+<g fill="none" stroke="#9caa91" stroke-width="2" stroke-linecap="round">
+  <path d="M307 108 191 145m142-37 116 37m-251 11h244"/>
+  <path d="M48 211h544"/>
 </g>
-<g stroke="#9caa91" stroke-width="1.3">
-  <rect x="42" y="74" width="188" height="45" rx="7" fill="#e1e6d6"/>
-  <rect x="332" y="74" width="283" height="45" rx="7" fill="#cfdfc8"/>
-  <rect x="42" y="142" width="188" height="49" rx="7" fill="#fbfbf5"/>
-  <rect x="42" y="232" width="188" height="49" rx="7" fill="#fbfbf5"/>
-  <rect x="332" y="157" width="121" height="53" rx="7" fill="#fbfbf5"/>
-  <rect x="464" y="157" width="151" height="53" rx="7" fill="#fbfbf5"/>
-  <rect x="322" y="218" width="131" height="70" rx="7" fill="#fbfbf5"/>
-  <rect x="464" y="224" width="151" height="58" rx="7" fill="#d9e6d1"/>
+<g fill="#587454">
+  <circle cx="320" cy="105" r="5"/><circle cx="186" cy="156" r="5"/><circle cx="454" cy="156" r="5"/>
 </g>
-<g fill="#263c30" font-family="system-ui, sans-serif" font-weight="700" text-anchor="middle">
-  <text x="320" y="39" font-size="27">Ajan Sistemleri</text>
-  <text x="136" y="104" font-size="24">BilYap</text>
-  <text x="474" y="104" font-size="24">YapBil</text>
-  <text x="136" y="175" font-size="24">Coding Bench</text>
-  <text x="136" y="265" font-size="24">Stack Bench</text>
-  <text x="393" y="192" font-size="25">Bilmux</text>
-  <text x="540" y="192" font-size="24">Dijital İkiz</text>
-  <text x="387.5" y="246" font-size="24">Ajan</text>
-  <text x="387.5" y="273" font-size="24">Atölyesi</text>
-  <text x="540" y="262" font-size="24">OSMETA</text>
+<g fill="#263c30" font-family="system-ui, sans-serif" text-anchor="middle">
+  <text x="320" y="37" font-size="27" font-weight="700">Ajan Sistemleri</text>
+  <g font-size="23" font-weight="700">
+    <text x="320" y="80">Dijital İkiz</text>
+    <text x="186" y="187">Bilmux</text>
+    <text x="454" y="187">OSMETA</text>
+  </g>
+  <g fill="#4c5e4c" font-size="14" font-weight="600">
+    <text x="320" y="97">Yön / Direction</text>
+    <text x="186" y="204">Oturumlar / Sessions</text>
+    <text x="454" y="204">Yöntem / Method</text>
+    <text x="154" y="237">Başla / Get started</text>
+    <text x="454" y="237">Karşılaştır / Compare</text>
+  </g>
+  <g font-size="18" font-weight="700">
+    <text x="154" y="261">Ajan Atölyesi</text>
+    <text x="454" y="261">Coding Bench · Stack Bench</text>
+  </g>
 </g>
 </svg>
