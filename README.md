@@ -1,4 +1,4 @@
-![Orçun Sami Tandoğan. Ajan sistemleri, ölçüm ve Türkçe uygulamalı rehberler.](./github-kapak.svg)
+![Ajan sistemleri şeması. BilYap: Coding Bench ve Stack Bench. YapBil: Bilmux, Dijital İkiz ve Ajan Atölyesi. Dijital İkiz ile ilişkili yöntem: OSMETA.](./ajan-sistemleri.svg)
 
 # Orçun Sami Tandoğan
 
@@ -27,7 +27,11 @@ Ajan takımları kuruyorum. Modelleri ve araçları aynı işte ölçüyor, öğ
 <h3>OSMETA</h3>
 <p>Ajan takımlarında iş dağılımını, bağımsız denetimi ve teslimin kabul koşullarını tanımlayan çalışma yöntemi.</p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<sub>YAPBİL · MASAÜSTÜ UYGULAMASI</sub>
+<h3>Ajan Atölyesi</h3>
+<p>Codex, Claude, Pi ve DSH oturumlarını tek pencerede açan masaüstü uygulaması.</p>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
